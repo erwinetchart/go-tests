@@ -1,0 +1,4 @@
+package beginner
+
+func main() {
+}
